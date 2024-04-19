@@ -1,0 +1,15 @@
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/obj/Debug/net7.0/T2W14_Assignment5.csproj.AssemblyReference.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/obj/Debug/net7.0/T2W14_Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/obj/Debug/net7.0/T2W14_Assignment5.AssemblyInfoInputs.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/obj/Debug/net7.0/T2W14_Assignment5.AssemblyInfo.cs
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/obj/Debug/net7.0/T2W14_Assignment5.csproj.CoreCompileInputs.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/bin/Debug/net7.0/T2W14_Assignment5
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/bin/Debug/net7.0/T2W14_Assignment5.deps.json
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/bin/Debug/net7.0/T2W14_Assignment5.runtimeconfig.json
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/bin/Debug/net7.0/T2W14_Assignment5.dll
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/bin/Debug/net7.0/T2W14_Assignment5.pdb
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/obj/Debug/net7.0/T2W14_Assignment5.dll
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/obj/Debug/net7.0/refint/T2W14_Assignment5.dll
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/obj/Debug/net7.0/T2W14_Assignment5.pdb
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/obj/Debug/net7.0/T2W14_Assignment5.genruntimeconfig.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W14/T2W14_Assignment5/obj/Debug/net7.0/ref/T2W14_Assignment5.dll
